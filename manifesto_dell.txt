@@ -1,0 +1,32 @@
+================================================================
+         MY OPEN SOURCE MANIFESTO
+         Written on 31 March 2026 | Running kernel: 6.6.87.2-microsoft-standard-WSL2
+================================================================
+
+I believe that software should serve people, not corporations.
+
+Every day, I rely on linux — a tool built not by a single
+company seeking profit, but by developers across the world who
+believed that the knowledge they had should be shared freely.
+That choice changed computing. It changed my world.
+
+To me, freedom in software means free coding. Not just the freedom
+to use a program, but the freedom to understand it, question it,
+fix it, and pass it on better than you found it. This is what
+the GPL v2 — the license that governs the Linux kernel itself —
+was designed to protect. It is not merely a legal document; it
+is a statement that human knowledge belongs to humanity.
+
+If I could build anything and release it to the world, I would
+build my ideas — and I would release it under an open license.
+Because the greatest software in history was not made to be
+locked away. The Linux kernel, Python, Git, Firefox — all of
+them grew because someone chose openness over ownership.
+
+I stand on the shoulders of giants. I intend to add to that
+height, not wall it off.
+
+Signed: dell
+Date  : 31 March 2026
+
+================================================================
